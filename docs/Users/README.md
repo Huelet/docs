@@ -7,3 +7,5 @@ title: Docs for users
 You'll probably find it here.
 
 # FAQ
+
+[What is the verified badge?](/Users/verified)
