@@ -8,7 +8,7 @@ Huelet is a community-driven platform for creating and sharing content. We aim t
 ## Violence
 Extremely violent content is not allowed. This includes, but is not limited to:
  - Human organs and body parts being removed
- - Human death [(exceptions listed here)](#exceptions)
+ - Human death [(exceptions listed here)](/Creators/content-policies#exceptions)
  - Excessive violence and/or physical harm such as a human being being shot or stabbed multiple times
  - Animal abuse such as a dog being beaten or abused
  - Child abuse such as a child being beaten or abused (further legal action may be taken by Huelet's moderation team)  
@@ -17,13 +17,6 @@ If our moderation AI detects that a user has violated this rule, your video will
 
 ## Hate content
 Hate content is not allowed. This includes, but is not limited to:
- - Racism
- - Ableism
- - Sexism
- - Homophobia
- - Xenophobia
- - Transphobia
- - Forms of bigotry
  - Threats of violence of any kind
  - Extreme toxicity  
   

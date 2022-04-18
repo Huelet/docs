@@ -5,7 +5,7 @@ title: What does the verified badge mean?
 # What does the verified badge mean?
 
 The verified badge is a visual indicator that a user has been verified by a human to be a safe and trustworthy creator.
-A creator cannot sign up for [Huelet Slatch](/users/what-is-slatch) without being verified.
+A creator cannot sign up for [Huelet Slatch](/Creators/what-is-slatch) without being verified.
 
 ## What are the criteria for verification?
 
