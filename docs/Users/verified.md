@@ -4,7 +4,7 @@
 
 ## Notability Verification Badge
 
-* This verification is for people or companies who have notability, 60k or more followers on Huelet. Or 60k or more followers on other platforms (Youtube, instacram etc.) 
+* This verification is for people or companies who have notability, 60k or more followers on Huelet. Or 60k or more followers on other platforms (YouTube, instagram etc.) 
 * For people associated with a company to qualify for Notability Verification they must have 1000 or more followers on either Huelet or other platforms.
 ---
 
