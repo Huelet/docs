@@ -1,22 +1,30 @@
+
+
+# What do the verified badges mean?
+
+## Notability Verification Badge
+
+* This verification is for people who have notability, 60k or more followers on Huelet. Or 60k or more followers on other platforms (Youtube, instacram etc.) 
+* For people associated with the company to qualify for Notability Verification they must have 1000 or more followers on either Huelet or other platforms.
 ---
-title: What does the verified badge mean?
+
+## Human Verification Badge
+
+* This verification can Help differentiate a Human from a bot or scammer etc, To receve this verification a valid phone number along with regular account activity in the past 10 days is required. 
+* Once the Human Verification Badge is applied your accout will be monitord for an additinal 15 days, mostly to check for iregular activity after receving the check.         
 ---
 
-# What does the verified badge mean?
+## Child/Teen Verification Badge
 
-The verified badge is a visual indicator that a user has been verified by a human to be a safe and trustworthy creator.
-A creator cannot sign up for [Huelet Slatch](/Creators/what-is-slatch) without being verified.
+* This verification is for teens or young children, These acccounts are sub accounts of a main parent account.
+A parent account must be human verified to apply for a Child/Teen account.
+*  Child/teen accounts will have parental controls and can be fully controled from a parents account. 
 
-## What are the criteria for verification?
 
-* The creator cannot be a bot
-* The creator has a verified email address
-* The creator has 2FA (2-factor-authentication) enabled
-* The creator has owned their account for at least 6 months
-* The creator has not recieved any guidelines strikes in the last 6 months
-* The creator has at least 100 followers
-* The creator has deployed at least 10 videos
 
-## I'd like to report a user for violating these criteria
 
-Thanks for helping us keep the community safe and trustworthy. Please [report the creator](https://report.huelet.cx) at [https://report.huelet.cx/](https://report.huelet.cx/).
+---
+
+
+If you think that an accout has violated rules or might be a bot or fake account please Submit a claim at (https://report.huelet.cx) 
+
