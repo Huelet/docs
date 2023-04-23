@@ -10,15 +10,15 @@
 
 ## Human Verification Badge
 
-* This verification can Help differentiate a Human from a bot or scammer etc, To receve this verification a valid phone number along with regular account activity in the past 10 days is required. 
-* Once the Human Verification Badge is applied your accout will be monitord for an additinal 15 days, mostly to check for iregular activity after receving the check.         
+* This verification can Help differentiate a Human from a bot or scammer etc, To receive this verification a valid phone number along with regular account activity in the past 10 days is required. 
+* Once the Human Verification Badge is applied your account will be monitored for an additional  15 days, mostly to check for irregular activity after  the check.         
 ---
 
 ## Child/Teen Verification Badge
 
-* This verification is for teens or young children, These acccounts are sub accounts of a main parent account.
+* This verification is for teens or young children, These accounts are sub accounts of a main parent account.
 A parent account must be human verified to apply for a Child/Teen account.
-*  Child/teen accounts will have parental controls and can be fully controled from a parents account. 
+*  Child/teen accounts will have parental controls and can be fully controlled from a parents account. 
 
 
 
