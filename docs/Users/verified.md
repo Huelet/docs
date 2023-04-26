@@ -14,9 +14,9 @@
 * Once the Human Verification Badge is applied your account will be monitored for an additional  15 days, mostly to check for irregular activity after  the check.         
 ---
 
-## Child/Teen Verification Badge
+## Child Verification Badge
 
-* This verification is for teens or young children, These accounts are sub accounts of a main parent account.
+* This verification is for children 10 and under, These accounts are sub accounts of a main parent account.
 A parent account must be human verified to apply for a Child/Teen account.
 *  Child/teen accounts will have parental controls and can be fully controlled from a parents account. 
 
